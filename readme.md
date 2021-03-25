@@ -1,4 +1,4 @@
-ลำดับใช้ไฟล์ฝึกเขียนโปรแกรม JavaScript Progamming
+ลำดับใช้ไฟล์ฝึกเขียนโปรแกรม JavaScript Programming
 
 1 inlinescript.html
 
